@@ -10,7 +10,7 @@ def fizzbuzz(int)
   if int % 5 == 0
     out << "Buzz"
   end
-  return out
+  puts out
 end
 
 fizzbuzz(3)
