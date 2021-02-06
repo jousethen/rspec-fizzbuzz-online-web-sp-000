@@ -11,3 +11,5 @@ def fizzbuzz(int)
   end
   puts out
 end
+
+fizzbuzz(15)
