@@ -3,6 +3,7 @@
 
 
 def fizzbuzz(int)
+  out = ""
   if int % 3 == 0 
     out << "Fizz"
     out
