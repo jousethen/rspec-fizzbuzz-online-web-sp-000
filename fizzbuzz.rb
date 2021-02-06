@@ -4,9 +4,9 @@
 
 def fizzbuzz(int)
   if int % 3 == 0 
-    out += "Fizz"
+    out << "Fizz"
   end
   if int % 5 == 0 
-    out += "Buzz"
+    out << "Buzz"
   end
 end
